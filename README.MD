@@ -23,10 +23,6 @@ I am a fullstack developer with over 3 years of experience, with a focus on Java
 
 ### 🛠 Tech Stack
 
----
-
-### 🛠 Tech Stack
-
 #### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -76,10 +72,6 @@ I am a fullstack developer with over 3 years of experience, with a focus on Java
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=distinkt-dd&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=distinkt-dd&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=distinkt-dd&theme=radical&hide_border=true" alt="Streak Stats" />
 </p>
